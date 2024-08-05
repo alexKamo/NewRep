@@ -1,0 +1,9 @@
+# used to ignore files that we do not want to be sent to the remote repote repasetory
+
+#log files
+#temporary files
+#hidden files
+#personal files
+
+build
+.properties
